@@ -13,6 +13,8 @@
 
 ## Usage
 
+- Disable flags for compiler if it complaints about NULL passing with %s
+
 - `make main` to compile mandatory part test
 - `./a.out` to run test
 - First output is from your ft_printf
