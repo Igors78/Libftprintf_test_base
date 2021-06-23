@@ -29,13 +29,17 @@
 
 - C
 
-## Author
+## Authors
 
 👤 **Igors Oleinikovs**
 
 - GitHub: [Igors78](https://github.com/Igors78)
 - Twitter: [@oleinikovs](https://twitter.com/oleinikovs)
 - LinkedIn: [Oleinikovs Igors](https://www.linkedin.com/in/igors-oleinikovs-17a10958/)
+
+👤 **Mert Barut**
+
+- GitHub: [mertbarut](https://github.com/mertbarut)
 
 ## 🤝 Contributing
 
